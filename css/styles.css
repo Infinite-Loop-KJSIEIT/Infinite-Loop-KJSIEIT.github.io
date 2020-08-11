@@ -4392,7 +4392,9 @@ body.search-is-visible {
     color: white;
 }
 
-.s-blog a:hover,
+
+/* .s-blog a:hover, */
+
 .s-blog a:focus {
     color: var(--color-dark-bg);
 }
