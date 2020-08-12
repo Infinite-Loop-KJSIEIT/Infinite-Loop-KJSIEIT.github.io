@@ -794,6 +794,11 @@ p {
     text-rendering: optimizeLegibility;
 }
 
+.herop {
+    color: var(--color-white);
+    font-size: 20px;
+}
+
 em,
 i {
     font-style: italic;
